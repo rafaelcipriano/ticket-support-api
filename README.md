@@ -76,6 +76,6 @@ API para gerenciar ticket de suporte técnico, permitindo criar um ticket solici
 
 ## Como inicializar o projeto
 
-*Abra o terminal e escreva o comando `npm run dev`.
+Abra o terminal e escreva o comando `npm run dev`.
 
-*Utilize um o INSOMNIA ou o POSTMAN para conseguir executar cada rota.
+Utilize o INSOMNIA ou o POSTMAN para conseguir executar cada rota.
